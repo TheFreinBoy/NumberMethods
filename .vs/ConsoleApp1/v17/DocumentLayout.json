@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tetie\\Desktop\\\u0414\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C098FA31-2CCC-4565-B4A4-1004EF3A6F40}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\tetie\\desktop\\\u0434\u0430\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C098FA31-2CCC-4565-B4A4-1004EF3A6F40}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D9EAF3-6C53-4D1B-8531-DA7B83FC8C23}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\tetie\\desktop\\\u0434\u0430\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D9EAF3-6C53-4D1B-8531-DA7B83FC8C23}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tetie\\Desktop\\\u0414\u0430\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\tetie\\Desktop\\\u0414\u0430\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:25:47.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tetie\\Desktop\\\u0414\u0430\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\tetie\\Desktop\\\u0414\u0430\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:27:03.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
