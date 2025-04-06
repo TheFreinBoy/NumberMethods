@@ -81,7 +81,6 @@ public class Program
             AddRoot(x0, f0);
             return;
         }
-
         if (Math.Abs(f1) < eps) 
         {
             AddRoot(x1, f1);

@@ -12,3 +12,4 @@ C:\Users\tetie\Desktop\Да\45\obj\Debug\net9.0\refint\45.dll
 C:\Users\tetie\Desktop\Да\45\obj\Debug\net9.0\45.pdb
 C:\Users\tetie\Desktop\Да\45\obj\Debug\net9.0\45.genruntimeconfig.cache
 C:\Users\tetie\Desktop\Да\45\obj\Debug\net9.0\ref\45.dll
+C:\Users\tetie\Desktop\Да\45\obj\Debug\net9.0\45.sourcelink.json

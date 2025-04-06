@@ -12,3 +12,4 @@ C:\Users\tetie\Desktop\Да\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
 C:\Users\tetie\Desktop\Да\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
 C:\Users\tetie\Desktop\Да\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
 C:\Users\tetie\Desktop\Да\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
+C:\Users\tetie\Desktop\Да\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
